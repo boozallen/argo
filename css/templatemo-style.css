@@ -9,8 +9,6 @@ http://www.templatemo.com/tm-446-boxer
 body
     {
         background: #fff;
-        /*font-family: 'Open Sans', sans-serif;*/
-        /*font-family: sans-serif;*/
         font-family: 'Nunito', sans-serif;
         font-weight: 300;
         position: relative;
@@ -50,10 +48,10 @@ img
     {
        width: 100%;
        height: 100%;
-       /*background: rgba(0, 0, 0, 0.4);*/
+       background: rgba(0, 0, 0, 0.1);
        padding-top: 90px;
        padding-bottom: 90px;
-       background-image: url(../images/grid.png);
+       background-image: url(../img/grid.png);
     }
 /* over lay */
 
@@ -181,16 +179,16 @@ img
 /* start home */
 #home
     {
-    background: url('../images/hist.jpg') no-repeat;
-    background-size: cover;
-    color: #fff;
-    margin-top: 70px;
-    text-align: center;
-    width: 100%;
+        background: url('../img/hist_banner.png') no-repeat;
+        background-size: cover;
+        color: #fff;
+        margin-top: 70px;
+        text-align: center;
+        width: 100%;
     }
 #home h1
     {
-        margin: 20px 0 45px 0;
+        margin: 20px 0 100px 0;
         font-weight: 300;
         font-size: 45px;
     }
@@ -330,7 +328,16 @@ img
         border-radius: 0px;
         font-weight: bold;
         margin-top: 20px;
+        margin-bottom:20px;
         padding: 10px 40px 10px 40px;
+    }
+#download .btn .fa
+    {
+        background: #4da6ff;
+        color: #fff;
+        display: inline-block;
+        text-align: center;
+        margin-right: 20px;
     }
 /* end download */
 
@@ -355,19 +362,23 @@ img
         text-align: center;
         margin-right: 20px;
     }
-/* end feature2 */
+/* end community */
 
 
 /* start contact */
 #contact
     {
-        background: url('../images/hist.jpg') no-repeat;
+        background: url('../img/hist.png') no-repeat;
         background-size: cover;
         color: #fff;
     }
 #contact h2
     {
         padding-bottom: 10px;
+    }
+#contact p
+    {
+        font-weight: 500;
     }
 #contact address
     {
