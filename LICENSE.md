@@ -1,13 +1,15 @@
+### Argo Product License Agreement
+
 The terms and conditions of this Product License Agreement govern your (either as an individual or the entity you represent, together (“Customer”)) downloading, installation, access to, and use of the Booz Allen Hamilton, Inc. (“BAH”) Product (“Agreement”). If you do not agree to the terms of this Agreement, then do not download, install, access or use the Product. If Customer has previously entered into an agreement with BAH governing its use of the Product that is still in effect, that agreement takes precedence over this Agreement. By downloading, installing, accessing, or using the Product, Customer acknowledges that it has read all of the terms and conditions of this Agreement, it understands them, and Customer agree to be legally bound by them. For purposes of this Agreement, the Effective Date shall be the earliest date when Customer either downloads, installs, accesses, or uses the BAH Product.
 
-### Licensed Software	
-ArgoTM (“Product”)
+### Licensed Software
+Argo (TM) (“Product”)
 
 ### Description
 A Microsoft Excel plug-in for analytical decision-making using dynamic, real time, and responsive simulation capabilities.
 
 ### Limited License
-BAH grants to Customer a non-exclusive, non-transferable, non-sublicensable license to download and install the Product onto a single customer computer and use the Product in accordance with the Documentation and this Agreement. Customer understands that the Product is owned by BAH and that the Product is licensed, and not sold to Customer. Customer obtains no rights in or to the Product. Customer acknowledges that the Product may contain security mechanisms which limit use to the specified number of users and/or delete or disable the Product upon expiration or termination of this Agreement. Customer agrees and acknowledges that BAH is the sole and exclusive owner of the product, including any materials resulting therefrom, and Booz Allen retains all right, title and interest in the product. Certain components of the Product are governed by the open source licenses identified on Exhibit A. Customer’s license with respect to such components are defined by the applicable open source software license. 
+BAH grants to Customer a non-exclusive, non-transferable, non-sublicensable license to download and install the Product onto a single customer computer and use the Product in accordance with the Documentation and this Agreement. Customer understands that the Product is owned by BAH and that the Product is licensed, and not sold to Customer. Customer obtains no rights in or to the Product. Customer acknowledges that the Product may contain security mechanisms which limit use to the specified number of users and/or delete or disable the Product upon expiration or termination of this Agreement. Customer agrees and acknowledges that BAH is the sole and exclusive owner of the product, including any materials resulting therefrom, and Booz Allen retains all right, title and interest in the product. Certain components of the Product are governed by the open source licenses identified on Exhibit A. Customer’s license with respect to such components are defined by the applicable open source software license.
 
 ### Product Updates
 Customer shall receive Product updates (collectively “Updates”) as and when such Updates are generally provided by BAH to its Customers of the Product. BAH can discontinue Updates in its sole discretion at any time.
@@ -28,9 +30,9 @@ Customer is encouraged provide suggestions, comments, or other materials (collec
 Customer is responsible for all acts and omissions of its users, and Customer shall ensure that its users shall comply with the terms and conditions of this Agreement.  Customer shall not permit its users to install, access, or use the Product other than as expressly provided herein.
 
 ### Disclaimer of Warranty
-The Product as part of this Agreement is provided “As Is.” BAH and its suppliers expressly disclaim all warranties, representations, and guarantees, whether oral or written, implied or statutory, with regard to the Product, including without limitation all warranties of merchantability, fitness for a particular purpose, title, non-infringement, non-interference, and warranties arising from course of dealing or usage of trade, to the maximum extent permitted by applicable law. BAH does not warrant that (i) the Product will meet Customer’s needs; (ii) the Product will be error-free or accessible at all times; or (iii) the use or the results of the use of the Product will be correct, accurate, timely, or otherwise reliable. Customer acknowledges that the Product has not been prepared to meet the Customer’s individual requirements, whether or not such requirements have been communicated to BAH. Customer assumes all responsibility for use of the Product.   
+The Product as part of this Agreement is provided “As Is.” BAH and its suppliers expressly disclaim all warranties, representations, and guarantees, whether oral or written, implied or statutory, with regard to the Product, including without limitation all warranties of merchantability, fitness for a particular purpose, title, non-infringement, non-interference, and warranties arising from course of dealing or usage of trade, to the maximum extent permitted by applicable law. BAH does not warrant that (i) the Product will meet Customer’s needs; (ii) the Product will be error-free or accessible at all times; or (iii) the use or the results of the use of the Product will be correct, accurate, timely, or otherwise reliable. Customer acknowledges that the Product has not been prepared to meet the Customer’s individual requirements, whether or not such requirements have been communicated to BAH. Customer assumes all responsibility for use of the Product.
 
-### Limitation of Liability 
+### Limitation of Liability
 In no event shall BAH be liable for any consequential, indirect, incidental, special, punitive, or exemplary damages, including any damages for loss of profits, revenue, use, goodwill, or data arising in any way out of or in connection with this Agreement. BAH shall not be liable for any claim by Customer based on any third party claim and in no case shall BAH’s liability for any cause of action in the aggregate including without limitation, breach of contract, breach of warranty, strict liability, misrepresentations, and other torts exceed $100.
 
 ### Indemnification
@@ -47,10 +49,10 @@ The Product is subject to U.S. export control laws and may be subject to export 
 
 ### Trademarks
 Customer acknowledges that “Booz Allen Hamilton,” “BAH,” the name of the Product referenced in this Agreement, and any other trademarks and service marks adopted by BAH to identify the product belong to BAH.
-Assignment	This Agreement, and each right, license and obligation under this Agreement, may not be assigned or transferred by Customer, including by operation of law, without BAH’s prior written approval.  
+Assignment	This Agreement, and each right, license and obligation under this Agreement, may not be assigned or transferred by Customer, including by operation of law, without BAH’s prior written approval.
 
 ### Governing Law
-This Agreement shall be governed by, and construed in accordance with, the laws of the Commonwealth of Virginia. Each Party consents to the exclusive jurisdiction of the state and federal courts of the Commonwealth of Virginia with respect to any actions for enforcement of or breach of this Agreement.  
+This Agreement shall be governed by, and construed in accordance with, the laws of the Commonwealth of Virginia. Each Party consents to the exclusive jurisdiction of the state and federal courts of the Commonwealth of Virginia with respect to any actions for enforcement of or breach of this Agreement.
 
 ### Entire Agreement
 This Agreement, together with any Exhibits, constitutes the entire agreement among the Parties and supersedes all prior discussions and writings with respect hereto. No modification, alteration or amendment of this Agreement shall be effective unless set forth in writing and signed by the Parties.
