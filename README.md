@@ -1,6 +1,8 @@
 # Argo
 Argo is a Monte Carlo simulation add-in for Microsoft Excel. Developed by [Booz Allen Hamilton](http://www.boozallen.com/). Available for Free.
 
+_Argo is no longer under active development; however, the software is still available here as-is._
+
 ## Resources
 
 - [Argo Landing Page](https://boozallen.github.io/argo): download link and general information about Argo
